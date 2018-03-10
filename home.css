@@ -1,0 +1,23 @@
+body {
+    background-color: lightyellow;
+	border:0px;
+}
+
+.h1 {
+    color: black;
+    text-align: center;
+}
+.input_group{
+	width: 25%;
+	margin: 50px auto 0px;
+	color: brown;
+	background: lightgreen;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20	px;
+	} 
+.input{
+	
+}
